@@ -10,7 +10,7 @@ namespace RESTfulServiceInvoke
     {
         /// <summary>
         /// makes rest service call and return the result as J object 
-        /// </summary>
+        /// </summary> 
         /// <typeparam name="J">the data type to return</typeparam>
         /// <param name="serviceUri">The uri of the rest service to invoke</param>
         /// <param name="callMethode">call methed can be POST or GET</param>
