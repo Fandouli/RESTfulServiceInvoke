@@ -1,0 +1,5 @@
+AFA.RESTful.Service.Invoke.1.0.0.nupkg
+nuget.exe
+Package.nuspec
+RESTfulServiceInvoke/bin/*
+RESTfulServiceInvoke/obj/*
