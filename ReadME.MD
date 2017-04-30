@@ -35,7 +35,7 @@ if(result != null)
 }
 else
 {
-	//There is aan error
+	//There is an error
 }
 
 
@@ -56,7 +56,7 @@ if(result != null)
 }
 else
 {
-	//There is aan error
+	//There is an error
 }
 
 
